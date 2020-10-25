@@ -1,0 +1,2 @@
+# BrutForce
+ Python-интенсив
